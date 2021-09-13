@@ -15,7 +15,7 @@ npm mongoose express
 to instal dependencies => run the following command: npm i, npm i express, npm i mongoose
 
 Deployed App
-Access site: 
+Access site: https://budget-tracker1000-pwa.herokuapp.com/
 
 Technologies Used
 PWA
